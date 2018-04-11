@@ -1,6 +1,7 @@
 # I18nPipeDemo
 
-This project demonstrates a way to apply internationalization in Angular apps by implementing a custom pipe to tackle that.
+This project demonstrates a way to apply internationalization in Angular apps by implementing a custom pipe to tackle that. 
+You can check my blog post about implementation steps [here](http://ebramcity.com/atwork/blog/2018/04/10/internationalization-using-custom-pipes-in-angular/)
 
 ## Base of project
 
